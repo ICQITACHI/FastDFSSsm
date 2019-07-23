@@ -22,7 +22,7 @@ public class MyController {
     public Map<String,Object> fileupload(@RequestParam("file") MultipartFile file){
 
         Map<String,Object> map = new HashMap<>();
-
+//hahahahhhaha测试噢噢噢噢
 
         try {
             //1.得到图片名称
