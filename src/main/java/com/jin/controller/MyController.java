@@ -24,6 +24,10 @@ public class MyController {
         Map<String,Object> map = new HashMap<>();
 //hahahahhhaha测试噢噢噢噢
 
+        //分支下开发
+        System.out.println("分支");
+
+
         try {
             //1.得到图片名称
             String name = file.getOriginalFilename();
